@@ -6,7 +6,12 @@ namespace VTFServer
 {
     public class ServerConnection : MonoBehaviour
     {
-        [SerializeField] private string _serverURL;       
+        [SerializeField] private string _serverURL;  
+
+		void Update()
+        {
+
+        }
     }
 
     [Serializable]

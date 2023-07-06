@@ -1,6 +1,6 @@
 {
   "name": "com.vtf.vtf-helpers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "VTF Helpers",
   "description": "General functions that are frequently used in vtf projects.",
   "unity": "2020.1",
