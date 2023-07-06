@@ -4,6 +4,7 @@
   "displayName": "VTF Helpers",
   "description": "General functions that are frequently used in vtf projects.",
   "unity": "2020.1",
+  "license": "LICENSE.md",
   "dependencies": {
  },
  "keywords": [
