@@ -1,0 +1,19 @@
+{
+  "name": "com.vtf.vtf-helpers",
+  "version": "1.0.0",
+  "displayName": "VTF Helpers",
+  "description": "General functions that are frequently used in vtf projects.",
+  "unity": "2020.1",
+  "dependencies": {
+ },
+ "keywords": [
+    "vtf",
+    "cipher",
+    "server"
+  ],
+  "author": {
+    "name": "Jimmy Lee",
+    "email": "jimmylee@virtualtechfrontier.com",
+    "url": "http://mitoworld.io"
+  }
+}
